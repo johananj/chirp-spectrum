@@ -16,5 +16,3 @@ If you have found this repository useful in your work, please consider citing.
 
 # References
 - (rabiner1969chirp) Rabiner, L., Schafer, R. W., & Rader, C. (1969). The chirp z-transform algorithm. IEEE transactions on audio and electroacoustics, 17(2), 86-92.
-- (bozkurt2007chirp) Bozkurt, B., Couvreur, L., & Dutoit, T. (2007). Chirp group delay analysis of speech signals. Speech communication, 49(3), 159-176.
-- (jayesh2016improved) Jayesh, M. K., & Ramalingam, C. S. (2016). Improved chirp group delay based algorithms with applications to vocal tract estimation and speech recognition. Speech Communication, 81, 72-89.
